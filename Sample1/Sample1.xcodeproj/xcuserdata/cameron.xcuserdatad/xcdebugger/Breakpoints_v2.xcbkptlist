@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8531F72A-9131-4F5C-BFA7-90EC46217D05"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "VideoController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48 - 2314be882bcddf3b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoController.previewView.getter : Swift.Optional&lt;__C.NSView&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48 - a18df7be6ad7bd2f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoController.previewView.setter : Swift.Optional&lt;__C.NSView&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48 - 4fd92c5ce23887b8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoController.previewView.modify : Swift.Optional&lt;__C.NSView&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48 - ad2b4207bd6ad153"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoController.previewView.modify : Swift.Optional&lt;__C.NSView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48 - d87d65a12aa74886"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Sample1.VideoController"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  uuid = "7D0F00AA-C2CB-40EB-9592-8258400D6E48 - 54824d34947352c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Sample1.VideoController&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46B8EB50-3821-4384-861A-5C5A5567F56C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "VideoCamera"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "46B8EB50-3821-4384-861A-5C5A5567F56C - a3dd2943291aea58"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoCamera.frontCamera.getter : Swift.Optional&lt;__C.AVCaptureDevice&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "46B8EB50-3821-4384-861A-5C5A5567F56C - 15fd664b20a0264c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoCamera.frontCamera.setter : Swift.Optional&lt;__C.AVCaptureDevice&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "46B8EB50-3821-4384-861A-5C5A5567F56C - e193a6b4bf21895f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoCamera.frontCamera.modify : Swift.Optional&lt;__C.AVCaptureDevice&gt;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "46B8EB50-3821-4384-861A-5C5A5567F56C - d5a940ec7aaff6b0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoCamera.frontCamera.modify : Swift.Optional&lt;__C.AVCaptureDevice&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "46B8EB50-3821-4384-861A-5C5A5567F56C - 410c3352800724c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample1.VideoCamera.init() -&gt; Sample1.VideoCamera"
+                  moduleName = "Sample1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cameron/github%20projects/Sample1/Sample1/VideoCamera.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3AA30C2-BA50-4B42-BEFA-8BA64A2FAA28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "createCaptureSession()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D3135AC-B6A6-4582-ABD5-9B1B6C19B36B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "displayPreview(on:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E71C08F4-ACDA-418D-B199-B94BD6D15876"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "makeNSViewController(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD5EB851-6A97-4D7D-A9EF-B7A43679C678"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "updateNSViewController(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED42CA60-A59D-4CA9-A0DD-C57D0A35C409"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "updateNSViewController(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D339C660-707E-42ED-A67D-DBDB2BAA30C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "configureDeviceInputs()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5939BB1B-D7B2-4C76-8659-8FD12E622EB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "configureCaptureDevices()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4BBE5BC-6391-4D9A-A0E6-18F00E7CE383"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample1/VideoCamera.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "configureCaptureDevices()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
